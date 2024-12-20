@@ -1,4 +1,3 @@
- ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*3gh-krzOrAoNyX8mJGyc2Q.jpeg)
 <h1 align="center">Hi 👋, I'm Nimet Seyrek</h1>
 <h3 align="center">I am Computer Engineering student at Izmir University of Economics</h3>
 
