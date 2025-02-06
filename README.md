@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimet Seyrek</h1>
 <h3 align="center">I am Computer Engineering student at Izmir University of Economics</h3>
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **ROS2**
 
 - 👯 I’m looking to collaborate on **...**
 
